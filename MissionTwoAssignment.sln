@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissionTwoAssignment", "MissionTwoAssignment\MissionTwoAssignment.csproj", "{19E5469E-0D94-4DBD-B21A-A99CA4B5160A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun2", "..\CSharpFun2\CSharpFun2\CSharpFun2.csproj", "{30E27781-3EEA-4FF1-8965-0570BCE7BF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E5469E-0D94-4DBD-B21A-A99CA4B5160A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E5469E-0D94-4DBD-B21A-A99CA4B5160A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E5469E-0D94-4DBD-B21A-A99CA4B5160A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E5469E-0D94-4DBD-B21A-A99CA4B5160A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E27781-3EEA-4FF1-8965-0570BCE7BF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E27781-3EEA-4FF1-8965-0570BCE7BF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E27781-3EEA-4FF1-8965-0570BCE7BF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E27781-3EEA-4FF1-8965-0570BCE7BF14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5577F738-7CCD-460A-A786-D4BD00BC4864}
+	EndGlobalSection
+EndGlobal
